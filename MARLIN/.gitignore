@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv-data/
+node_modules/
+tmp/
+outputs/**/checkpoint.json
+outputs/**/partial_results.json
+data/raw/images/
+data/marlin-public-data-v1.zip

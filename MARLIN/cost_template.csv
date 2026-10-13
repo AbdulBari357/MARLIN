@@ -1,0 +1,18 @@
+item,category,proposed_quantity_basis,unit_cost_AED,total_cost_AED,evidence_or_quote,owner
+Outer guide modules,CAPEX,"Quantity and dimensions from hydraulic/mooring design",,,,hydraulic
+Middle reserve guide modules,CAPEX,"From degraded-service capacity requirement",,,,hydraulic
+Inner residual interception modules,CAPEX,"From approved boundary and residual requirement",,,,mechanical
+Dedicated collector mechanisms,CAPEX,"At least independent collection function per band; actual module count unresolved",,,,mechanical
+Alternating wet receiving modules,CAPEX,"From peak backlog turnover and validated welfare limits",,,,mechanical
+Moorings deployment and retrieval,CAPEX,"Site-specific; include vessel and installation access",,,,coastal
+Sensors and local controls,CAPEX,"Depth coverage loading and environmental instrumentation for each band",,,,controls
+Communications and assessed backup power,CAPEX,"Independent response and alarms; actual energy budget unresolved",,,,controls
+Bubble assist option,CAPEX_OPTION,"Only after demonstrating benefit within operating envelope",,,,hydraulic
+Collector and sensor electricity,OPEX,"Measured total kWh per bloom; model electricity is partial",,,,operations
+Compressor electricity if used,OPEX,"Measured airflow pressure duty and kWh",,,,operations
+Transport vessel fuel crew and turnaround,OPEX,"Actual supervised trips and permitted release conditions",,,,operations
+Cleaning inspection and receiver exchange,OPEX,"Staff hours and event-level service schedule",,,,operations
+Spares repairs corrosion and fouling service,OPEX,"Endurance-derived service intervals",,,,mechanical
+Handling and environmental monitoring,OPEX,"Ecological follow-up release monitoring and compliance needs",,,,ecologist
+Training incident exercises and software support,OPEX,"Ownership and deployment arrangement",,,,controls
+Permits insurance and environmental assessment,PROJECT_COST,"Relevant local requirements; obtain confirmation",,,,team_lead
